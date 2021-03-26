@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HardWorkerFree
+- 👀 I’m interested in creating games and other software
+- 🌱 I’m currently learning dotNet
+- 📫 How to reach me [MyNickname]@gmail.com
